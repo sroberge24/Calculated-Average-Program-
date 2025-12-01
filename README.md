@@ -1,2 +1,3 @@
 # Calculated-Average-Program-
 This Python program calculates the average score from three previous test results from the user inputs. A personalized message is also shown expressing the need for improvement to praise.
+The code uses specific get_average(), check_average(), and main() functions to handle, calculate, average, and call other functions in order. Conditional statements are also used to evaluate the average score and display the personalized messages to the user inputting the data. This program is a simple, yet interactive piece of code useful for understanding mathematical functions in Python. 
